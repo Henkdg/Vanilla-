@@ -1,0 +1,17 @@
+# Ignore everything
+*
+
+# Allow folders we want
+!.gitignore
+!.gitattributes
+!mods/
+!config/
+!global_packs/
+!resourcepacks/
+!options.txt
+
+# Allow files inside them
+!mods/**
+!config/**
+!global_packs/**
+!resourcepacks/**
