@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "e": {
+      "item": "minecraft:ender_eye"
+    },
+    "g": {
+      "item": "minecraft:melon"
+    },
+    "d": {
+      "item": "minecraft:bamboo"
+    },
+    "c": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "drd",
+    "geg",
+    "dcd"
+  ],
+  "result": {
+    "count": 1,
+    "id": "endrem:rogue_eye"
+  }
+}

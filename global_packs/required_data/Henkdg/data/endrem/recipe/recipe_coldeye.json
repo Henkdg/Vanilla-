@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "w2w",
+    "1e3",
+    "w4w"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:blue_ice"
+    },
+    "2": {
+      "item": "yungscavebiomes:icicle"
+    },
+    "3": {
+      "item": "minecraft:packed_ice"
+    },
+    "4": {
+      "item": "minecraft:powder_snow_bucket"
+    },
+    "e": {
+      "item": "minecraft:ender_eye"
+    },
+    "w": {
+      "item": "minecraft:wind_charge"
+    }
+  },
+  "result": {
+    "id": "endrem:cold_eye",
+    "count": 1
+  }
+}

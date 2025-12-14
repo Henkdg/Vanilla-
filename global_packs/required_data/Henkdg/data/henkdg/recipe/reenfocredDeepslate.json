@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gcg",
+    "ese",
+    "gcg"
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:deepslate"
+    },
+    "g": {
+      "item": "minecraft:obsidian"
+    },
+    "e": {
+      "item": "deeperdarker:echo_planks"
+    },
+    "c": {
+      "item": "deeperdarker:sculk_stone"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:reinforced_deepslate"
+  }
+}

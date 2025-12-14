@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " e ",
+    "gsg",
+    " g "
+  ],
+  "key": {
+    "s": {
+      "item": "endrem:undead_soul"
+    },
+    "g": {
+      "item": "minecraft:gold_block"
+    },
+    "e": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:totem_of_undying"
+  }
+}

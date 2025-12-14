@@ -1,0 +1,28 @@
+{
+	"server": {
+		"spawnSomethingFromAncientVaseChance": 0.5039527416229248,
+		"sculkLeechesFromAncientVaseChance": 0.4979957217261907,
+		"geysersApplySlowFalling": false,
+		"geyserLaunchVelocity": 1.2999999523162842,
+		"portalMinWidth": 2,
+		"portalMinHeight": 2,
+		"portalMaxWidth": 48,
+		"portalMaxHeight": 24,
+		"portalMinSearchHeight": 2,
+		"portalMaxSearchHeight": 122,
+		"generatedPortalWidth": 8,
+		"generatedPortalHeight": 4,
+		"sonorousStaffDamage": 10.0,
+		"sonorousStaffKnockback": 1.0,
+		"sonorousStaffCooldown": 40,
+		"soulElytraCooldown": 600,
+		"soulElytraBoostStrength": 2.0,
+		"snapperDropLimit": 8
+	},
+	"client": {
+		"renderWardenHelmetHorns": true,
+		"wardenHeartPulses": true,
+		"changePhantomTextures": true,
+		"paintingFix": true
+	}
+}

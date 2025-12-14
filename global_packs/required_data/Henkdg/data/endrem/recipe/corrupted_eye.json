@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "e": {
+      "item": "minecraft:ender_eye"
+    },
+    "g": {
+      "item": "minecraft:gold_block"
+    },
+    "d": {
+      "item": "minecraft:diamond_block"
+    },
+    "c": {
+      "item": "minecraft:coal_block"
+    },
+    "m": {
+      "item": "minecraft:emerald_block"
+    },
+    "i": {
+      "item": "minecraft:iron_block"
+    },
+    "n": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "r": {
+      "item": "minecraft:redstone_block"
+    },
+    "l": {
+      "item": "minecraft:lapis_block"
+    }
+  },
+  "pattern": [
+    "rnl",
+    "ged",
+    "cmi"
+  ],
+  "result": {
+    "count": 1,
+    "id": "endrem:corrupted_eye"
+  }
+}
