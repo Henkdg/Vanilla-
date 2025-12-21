@@ -1,6 +1,7 @@
 {
 	"enableMod": true,
 	"disabledBiomes": [
+		"minecraft:deep_dark",
 		"minecraft:nether_wastes",
 		"minecraft:crimson_forest",
 		"minecraft:warped_forest",

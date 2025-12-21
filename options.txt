@@ -23,7 +23,7 @@ particles:0
 reducedDebugInfo:false
 renderClouds:"true"
 renderDistance:20
-simulationDistance:10
+simulationDistance:32
 screenEffectScale:1.0
 soundDevice:""
 autoJump:false
@@ -213,15 +213,15 @@ key_keybind.name.EMOTE_SLOT_6:key.keyboard.unknown
 key_keybind.name.EMOTE_SLOT_7:key.keyboard.unknown
 key_keybind.name.EMOTE_SLOT_8:key.keyboard.unknown
 key_keybind.name.ZOOM:key.keyboard.c
-soundCategory_master:1.0
-soundCategory_music:0.0
+soundCategory_master:0.4747766625275938
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
-soundCategory_ambient:0.0
+soundCategory_ambient:1.0
 soundCategory_voice:1.0
 modelPart_cape:true
 modelPart_jacket:true
