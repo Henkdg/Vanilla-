@@ -22,8 +22,8 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:20
-simulationDistance:32
+renderDistance:15
+simulationDistance:15
 screenEffectScale:1.0
 soundDevice:""
 autoJump:false
@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","minecraft:physicsmod","minecraft:supporteatinganimation","file/Farcr\u0027s Re-Crafted V2.24.zip","file/Prettier Health Bars v1.0.zip","file/§6Immersive§8_§6Interfaces§8_§6Modded§8.zip","file/§6Immersive§8_§6Interfaces§8.zip","file/§3§lC418 Songs Only.zip","file/glowing-eyes-mobs.zip","file/DSWG Glowing Eyes 1.20 v1.1.zip","moonlight:merged_pack","file/EnderEyes_1.21_v3.1.zip","file/Beautiful Enchanted Books - MC 1.21.1 - 8.0.0.zip","file/Modded Omelet_1_21_1.zip","file/Just Fancy Torches v2.0.zip","file/Cozy_Beds-v1.4-pre1.21.4.zip","file/better-nether-portal-e1350.zip","continuity:glass_pane_culling_fix","continuity:default","file/better-deepdarkPortal","file/Visual Titles 1.2"]
+resourcePacks:["vanilla","fabric","minecraft:physicsmod","minecraft:supporteatinganimation","file/Farcr\u0027s Re-Crafted V2.24.zip","file/Prettier Health Bars v1.0.zip","file/§6Immersive§8_§6Interfaces§8_§6Modded§8.zip","file/§6Immersive§8_§6Interfaces§8.zip","file/§3§lC418 Songs Only.zip","file/glowing-eyes-mobs.zip","file/DSWG Glowing Eyes 1.20 v1.1.zip","moonlight:merged_pack","file/EnderEyes_1.21_v3.1.zip","file/Beautiful Enchanted Books - MC 1.21.1 - 8.0.0.zip","file/Modded Omelet_1_21_1.zip","file/Just Fancy Torches v2.0.zip","file/Cozy_Beds-v1.4-pre1.21.4.zip","file/better-nether-portal-e1350.zip","continuity:glass_pane_culling_fix","continuity:default","file/Visual Titles 1.2","file/better-deepdarkPortal"]
 incompatibleResourcePacks:["appleskin","betteradvancements","betterclouds","bookshelf","brewinandchewin","charmofundying","cherishedworlds","clavis","deeperdarker","enchdesc","end_respawn_anchor","entity_model_features","entity_texture_features","fog","globalpacks","glowingeyes","immersivedamageindicators","immersivemessages","immersiveui","jei","kiwi","mes","modernfix","moogs_structures","mr_bft","mr_dungeons_andtaverns","mss","patchouli","spectrelib","terrablender","tide","txnilib","yet_another_config_lib_v3","essential","minecraft:physicsmod","file/Prettier Health Bars v1.0.zip","file/glowing-eyes-mobs.zip","file/DSWG Glowing Eyes 1.20 v1.1.zip","file/Modded Omelet_1_21_1.zip","file/better-nether-portal-e1350.zip","file/better-deepdarkPortal"]
 lastServer:
 lang:en_us
@@ -124,7 +124,7 @@ key_key.hotbar.9:key.keyboard.9
 key_legendarytooltips.key.scrollTooltips:key.keyboard.unknown
 key_key.adventurez.dragonflydown:key.keyboard.left.alt
 key_key.adventurez.dragonfirebreath:key.keyboard.unknown
-key_artifacts.key.helium_flamingo.activate:key.keyboard.unknown
+key_artifacts.key.helium_flamingo.activate:key.keyboard.y
 key_artifacts.key.charm_of_shrinking.toggle:key.keyboard.unknown
 key_artifacts.key.charm_of_sinking.toggle:key.keyboard.unknown
 key_artifacts.key.night_vision_goggles.toggle:key.keyboard.unknown
@@ -213,7 +213,7 @@ key_keybind.name.EMOTE_SLOT_6:key.keyboard.unknown
 key_keybind.name.EMOTE_SLOT_7:key.keyboard.unknown
 key_keybind.name.EMOTE_SLOT_8:key.keyboard.unknown
 key_keybind.name.ZOOM:key.keyboard.c
-soundCategory_master:0.4747766625275938
+soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
